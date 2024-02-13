@@ -3,4 +3,8 @@ my second commit
 my third commit
 my third commit
 my four commit
+<<<<<<< HEAD
 my six commit
+=======
+my five commit
+>>>>>>> 597d92e93702a631e8b884a04afd6ef4ee05d35d
